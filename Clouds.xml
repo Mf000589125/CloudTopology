@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Clouds 
+  NextIndexToUse="8"
+  ValidEnvironmentTypes="Public;Sovereign;Airgapped">
+  <!--
+    Note: Please do not depend on the Geo name as immutable. Please use GUIDs instead.
+    See "AzureHierarchyReadme.txt" for more information
+  -->
+  <Cloud
+    Name="Public"
+    ShortID="PB"
+    EnvironmentType="Public"
+    GUID="123456-cd6a-44bd-9655-32be2b6c77e7"
+    Index="4">
+    <Geography Name="A"/>
+    <Geography Name="B"/>
+    <Geography Name="C"/>
+    <Geography Name="D"/>
+    <Geography Name="E"/>
+    <Geography Name="F"/>
+    <Geography Name="G"/>
+    <Geography Name="H"/>
+    <Geography Name="I"/>
+    <Geography Name="J"/>
+    <Geography Name="K"/>
+    <Geography Name="L"/>
+  </Cloud>
+</Clouds>
